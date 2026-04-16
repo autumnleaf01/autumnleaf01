@@ -8,15 +8,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&duration=4500&color=EFB7C5&center=true&vCenter=true&width=650&lines=between+code+and+silence...;something+beautiful+is+being+built;slowly%2C+quietly%2C+intentionally" />
 </h3>
 
----
 
-<p align="center">
-  <img src="https://img.shields.io/badge/anime-aesthetic-ffc0cb?style=flat-square"/>
-  <img src="https://img.shields.io/badge/mood-dreamlike-e0bbff?style=flat-square"/>
-  <img src="https://img.shields.io/badge/design-minimal-cde7ff?style=flat-square"/>
-</p>
-
----
 
 ## 🌸 a small introduction
 
