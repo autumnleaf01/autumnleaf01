@@ -51,10 +51,7 @@ State: learning, evolving, creating
 <div align="center">
 
 ```bash id="cine02"
-LaundryPal        → a calm, minimal laundry experience  
-Street Vendor Map → connecting people to local stories  
-Bug Tracker       → making debugging feel less chaotic  
-
+LaundryPal        → a calm, minimal laundry experience 
 more ideas are quietly taking shape...
 ```
 
