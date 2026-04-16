@@ -1,16 +1,17 @@
 <!-- 🌸 CINEMATIC ANIME README -->
+<h1 align="center" style="font-weight:500; letter-spacing:1.5px;">
+  RITIK RANJAN
+</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e0,30:e7c6ff,60:cde7ff,100:bde0fe&height=220&section=header&text=RITIK%20RANJAN&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=20&duration=4000&pause=1500&color=AD6C80&center=true&vCenter=true&width=500&lines=Minimal+•+Elegant+•+Intentional" />
 </p>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=26&duration=4500&color=EFB7C5&center=true&vCenter=true&width=650&lines=between+code+and+silence...;something+beautiful+is+being+built;slowly%2C+quietly%2C+intentionally" />
-</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
 
-
-
-## 🌸 a small introduction
+## 🌸 A small introduction
 
 <p align="center">
 not everything needs to be loud to be powerful.  
@@ -21,23 +22,23 @@ and lines of code written with intention.
 
 ---
 
-## 🌷 identity
+## 🌷 Identity
 
 <div align="center">
 
 ```yaml id="cine01"
-name: Ritik Ranjan
-role: Developer
-approach: minimal, thoughtful, aesthetic
-focus: building meaningful digital experiences
-state: learning, evolving, creating
+Name: Ritik Ranjan
+Role: Developer
+Approach: minimal, thoughtful, aesthetic
+Focus: building meaningful digital experiences
+State: learning, evolving, creating
 ```
 
 </div>
 
 ---
 
-## 🌙 things i work with
+## 🌙 Things i work with
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,react,nodejs,git,github&theme=light" />
@@ -45,7 +46,7 @@ state: learning, evolving, creating
 
 ---
 
-## 🌸 selected works
+## 🌸 Selected works
 
 <div align="center">
 
@@ -61,17 +62,16 @@ more ideas are quietly taking shape...
 
 ---
 
-## 🌌 activity
-
+## 🌌 Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=autumnleaf01&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=autumnleaf01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=rose_pine&hide_border=true&background=00000000" />
+  <img src="https://streak-stats.demolab.com?user=autumnleaf01&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideNums=c9d1d9&currStreakNum=ffffff" />
 </p>
 
 ---
 
-## 🌸 reach out
+## 🌸 Reach out
 
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/instagram-ffc0cb?style=flat-square&logo=instagram&logoColor=black"/></a>
@@ -88,3 +88,10 @@ more ideas are quietly taking shape...
 <h4 align="center">
   <i>and somewhere between logic and emotion... something real exists.</i>
 </h4>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=C+%E2%80%A2+C%2B%2B+%E2%80%A2+Git;Building+Clean+Systems;Minimal+Code+•+Maximum+Clarity" />
+</p>
