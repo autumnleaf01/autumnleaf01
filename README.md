@@ -3,9 +3,6 @@
   RITIK RANJAN
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&size=20&duration=4000&pause=1500&color=AD6C80&center=true&vCenter=true&width=500&lines=Minimal+•+Elegant+•+Intentional" />
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
