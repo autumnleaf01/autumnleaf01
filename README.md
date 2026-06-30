@@ -58,8 +58,11 @@ more ideas are quietly taking shape...
 
 ## 🌌 Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=autumnleaf01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&icon_color=58a6ff&text_color=c9d1d9" />
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=autumnleaf01&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true" alt="GitHub Activity Graph" />
+</p>
   <br/>
+  <p align="center">
   <img src="https://streak-stats.demolab.com?user=autumnleaf01&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=ffffff&sideNums=c9d1d9&currStreakNum=ffffff" />
 </p>
 
