@@ -69,9 +69,9 @@ more ideas are quietly taking shape...
 ## 🌸 Reach out
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/instagram-ffc0cb?style=flat-square&logo=instagram&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/linkedin-e0bbff?style=flat-square&logo=linkedin&logoColor=black"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/email-cde7ff?style=flat-square&logo=gmail&logoColor=black"/></a>
+  <a href="https://www.instagram.com/ohkieo/"><img src="https://img.shields.io/badge/instagram-ffc0cb?style=flat-square&logo=instagram&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/autumnleaf01/"><img src="https://img.shields.io/badge/linkedin-e0bbff?style=flat-square&logo=linkedin&logoColor=black"/></a>
+  <a href="mailto:ranjanritik985@gmail.com"><img src="https://img.shields.io/badge/email-cde7ff?style=flat-square&logo=gmail&logoColor=black"/></a>
 </p>
 
 ---
