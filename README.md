@@ -58,8 +58,6 @@ more ideas are quietly taking shape...
 
 ## 🌌 Activity
 <p align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=autumnleaf01&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c9d1d9&line=58a6ff&point=ffffff&area=true" alt="GitHub Activity Graph" />
 </p>
   <br/>
   <p align="center">
